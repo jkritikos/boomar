@@ -52,25 +52,25 @@
 
 	<header style="margin-bottom:0px;" class="page-header">
 
-		<h1 class="page-title align-left">What we offer</h1>
+		<h1 class="page-title align-left">Our Approach</h1>
 
 		<hr />
 
-		<h2 class="page-description">From successful mobile apps to memorable websites and logos, we plan, design and develop experiences that stand out from the crowd.</h2>
+		<h2 class="page-description">All projects are unique and should be treated as such. Our approach provides a flexible framework to create powerful solutions for big ideas.</h2>
 		
 	</header><!-- end .page-header -->
-	
-	<div class="team-member one-fourth">
+        
+        <div class="team-member one-fourth">
 
-		<a href="/services/mobile"><img src="/img/services-icons/services/1_service_mobile.png" alt="" class="photo"></a>
+		<img src="/img/services-icons/approach/1_approach_investigate.png" alt="" class="photo">
 
 		<div class="content">
 
-			<h4 class="name">Mobile Apps</h4>
+			<h4 class="name"><span style="color:red;">I</span>nvestigate</h4>
 
 			<span class="job-title">&nbsp;</span>
 
-			<p>Whether it is iOS or Android, we believe in clear user interface design and intuitive interactions. We love working on mobile user experiences with relevant functionality, structured navigation, mobile-appropriate content, and of course striking design.</p>
+			<p>Getting to know all about your brand and what you want to achieve is all we need to kick start our creative process.</p>
 			
 		</div><!-- end .content -->
 	
@@ -78,15 +78,15 @@
 	
 	<div class="team-member one-fourth">
 
-		<a href="/services/web"><img src="/img/services-icons/services/2_service_web.png" alt="" class="photo"></a>
+		<img src="/img/services-icons/approach/2_approach_design.png" alt="" class="photo">
 
 		<div class="content">
 
-			<h4 class="name">Websites</h4>
+			<h4 class="name"><span style="color:red;">D</span>esign</h4>
 
 			<span class="job-title">&nbsp;</span>
 
-			<p>We use the latest web thinking to make sure your website is a joy to use on laptop, desktop, mobile or tablet. What we’re proud of is our skill to combine the finest technology with functional designs that communicate the right messages.</p>
+			<p>Intriguing concepts and engaging interactions come to life, always hand-in-hand with our engineers to ensure agile implementation.</p>
 			
 		</div><!-- end .content -->
 	
@@ -94,15 +94,15 @@
 	
 	<div class="team-member one-fourth">
 
-		<a href="/services/branding"><img src="/img/services-icons/services/3_service_branding.png" alt="" class="photo"></a>
+		<img src="/img/services-icons/approach/3_approach_engineer.png" alt="" class="photo">
 
 		<div class="content">
 
-			<h4 class="name">Branding</h4>
+			<h4 class="name"><span style="color:red;">E</span>ngineer</h4>
 
 			<span class="job-title">&nbsp;</span>
 
-			<p>Armed with insight, we embark on creating inventive and impactful brands. Allowing flexibility to our designs gives us the power to further evolve the brand’s interaction with consumers and become more surprising, playful and adaptive.</p>
+			<p>The building process is when our creations become tangible, followed by rigorous testing to ensure flawless performance. </p>
 			
 		</div><!-- end .content -->
 	
@@ -110,22 +110,21 @@
 	
 	<div class="team-member one-fourth last">
 
-		<a href="/services/strategy"><img src="/img/services-icons/services/4_service_strategy.png" alt="" class="photo"></a>
+		<img src="/img/services-icons/approach/4_approach_activate.png" alt="" class="photo">
 
 		<div class="content">
 
-			<h4 class="name">Digital Strategy</h4>
+			<h4 class="name"><span style="color:red;">A</span>ctivate</h4>
 
 			<span class="job-title">&nbsp;</span>
 
-			<p>We do our homework to understand your audiences and their digital behaviors. In this process, we discover insights that enable us to draw a strategy that will meet your business goals and shape a powerful digital footprint for your brand.</p>
+			<p>The excitement of launching a brand, an app or a website is usually accompanied with targeted PR and social media engagement.</p>
 			
 		</div><!-- end .content -->
 	
 	</div><!-- end .team-member.one-fourth.last -->
 	
 </section>
-
 
 <?php echo $this->element('footer'); ?>
 

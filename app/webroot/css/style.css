@@ -499,12 +499,12 @@ input.placeholder, textarea.placeholder { color: #b0b0b0; }
 				#main-nav a:after {
 					color: #aeaeae;
 					content: attr(data-description);
-					font-size: 11px;
+					font-size: 12px;
 					font-style: italic;
 					font-weight: 400;
 					display: block;
 					line-height: 0;
-					margin: 3px 0 -3px;
+					margin: 5px 0 -3px;
 					text-align: center;
 					text-transform: lowercase;
 				}
@@ -1663,6 +1663,7 @@ input.placeholder, textarea.placeholder { color: #b0b0b0; }
 			.projects-carousel > li .categories, #portfolio-items > article .categories {
 				color: #aeaeae;
 				display: block;
+                                font-size:14px;
 				font-style: italic;
 				margin: -1px 0 20px;
 			}

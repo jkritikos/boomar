@@ -57,6 +57,11 @@ class BoomarController extends AppController {
         $this->set('menuClass',"portfolio");
     }
     
+    function approach(){
+        $this->layout = 'approach';
+        $this->set('menuClass',"about");
+    }
+    
     function contact(){
         $this->layout = 'contact';
         $this->set('menuClass',"contact");

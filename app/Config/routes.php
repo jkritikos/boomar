@@ -33,6 +33,7 @@
         Router::connect('/team', array('controller' => 'boomar', 'action' => 'whoweare'));
         
         //Services
+        Router::connect('/approach', array('controller' => 'boomar', 'action' => 'approach'));
         Router::connect('/services', array('controller' => 'boomar', 'action' => 'services'));
         Router::connect('/services/mobile', array('controller' => 'boomar', 'action' => 'mobile'));
         Router::connect('/services/web', array('controller' => 'boomar', 'action' => 'web'));

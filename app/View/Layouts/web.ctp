@@ -95,7 +95,7 @@
 
         <a href="/project/3" class="project-meta">
             <h5 class="title">Finos Film</h5>
-            <span class="categories">Website / from concept to development</span>
+            <span class="categories">web / digital strategy</span>
         </a>
 
     </article><!-- end .one-third (Altered) -->
@@ -108,26 +108,26 @@
 
         <a href="/project/6" class="project-meta">
             <h5 class="title">Bwin</h5>
-            <span class="categories">Facebook App / design &amp; development</span>
+            <span class="categories">web</span>
         </a>
 
     </article><!-- end .one-third (Snow Tower) -->
 
-		<article class="one-third" data-categories="illustration animation">
+    <article class="one-third" data-categories="illustration animation">
 
-			<a href="/project/5" title="Cando">
-				<img src="/boomar_images/web_img_3.jpg" alt="">
-			</a>
+        <a href="/project/5" title="Cando">
+            <img src="/boomar_images/web_img_3.jpg" alt="">
+        </a>
 
-			<a href="/project/5" class="project-meta">
-				<h5 class="title">Cando</h5>
-				<span class="categories">web / branding</span>
-			</a>
-			
-		</article><!-- end .one-third (Not the end) -->
+        <a href="/project/5" class="project-meta">
+            <h5 class="title">Cando</h5>
+            <span class="categories">web / branding</span>
+        </a>
+
+    </article><!-- end .one-third (Not the end) -->
 
 
-	</section><!-- end #portfolio-items -->
+</section><!-- end #portfolio-items -->
 
 	
 </section><!-- end #content -->
@@ -154,10 +154,20 @@
 	<script>
 	
 	$(document).ready(function(){
-		$(".imgLiquidFill").imgLiquid();
-  });  
+            $(".imgLiquidFill").imgLiquid();
+        });  
 	
 	</script>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-43266607-1', 'boomar.gr');
+            ga('send', 'pageview');
+
+        </script>
 <!--<![endif]-->
 </body>
 </html>

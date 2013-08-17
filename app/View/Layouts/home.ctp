@@ -64,7 +64,7 @@
             <a href="/project/1">
                 <img src="boomar_images/latest_1.jpg" alt="">
                 <h5 class="title">Mind the Buzz</h5>
-                <span class="categories">Mobile App / A Boomar product</span>
+                <span class="categories">mobile / web / digital strategy</span>
             </a>
         </li>
 
@@ -72,7 +72,7 @@
             <a href="/project/2">
                 <img src="boomar_images/latest_2.jpg" alt="">
                 <h5 class="title">Ifeelkid</h5>
-                <span class="categories">Mobile App / design &amp; development</span>
+                <span class="categories">mobile / digital strategy</span>
             </a>
         </li>
 
@@ -80,7 +80,7 @@
             <a href="/project/3">
                 <img src="boomar_images/latest_3.jpg" alt="">
                 <h5 class="title">Finos Film</h5>
-                <span class="categories">Web Site / from concept to development</span>
+                <span class="categories">web / digital strategy</span>
             </a>
         </li>
 
@@ -88,7 +88,7 @@
             <a href="/project/4">
                 <img src="boomar_images/latest_4.jpg" alt="">
                 <h5 class="title">AXDW XIII</h5>
-                <span class="categories">Branding / planning &amp; design</span>
+                <span class="categories">branding</span>
             </a>
         </li>
 
@@ -96,7 +96,7 @@
             <a href="/project/5">
                 <img src="boomar_images/latest_5.jpg" alt="">
                 <h5 class="title">Cando</h5>
-                <span class="categories">Web Site / from concept to development</span>
+                <span class="categories">web / branding</span>
             </a>
         </li>
 
@@ -104,7 +104,7 @@
             <a href="/project/6">
                 <img src="boomar_images/latest_6.jpg" alt="">
                 <h5 class="title">Ticket On the Go</h5>
-                <span class="categories">Mobile App / design &amp; development</span>
+                <span class="categories">mobile</span>
             </a>
         </li>
 
@@ -112,7 +112,7 @@
             <a href="/project/7">
                 <img src="boomar_images/latest_7.jpg" alt="">
                 <h5 class="title">Bwin</h5>
-                <span class="categories">Facebook App / design &amp; development</span>
+                <span class="categories">web</span>
             </a>
         </li>
 
@@ -120,7 +120,7 @@
             <a href="/project/8">
                 <img src="boomar_images/latest_8.jpg" alt="">
                 <h5 class="title">AXDW Week XII</h5>
-                <span class="categories">Branding / planning &amp; design</span>
+                <span class="categories">branding</span>
             </a>
         </li>
 
@@ -128,7 +128,7 @@
             <a href="/project/9">
                 <img src="boomar_images/latest_9.jpg" alt="">
                 <h5 class="title">Sivaco</h5>
-                <span class="categories">Branding / from concept to design</span>
+                <span class="categories">web / branding</span>
             </a>
         </li>
 
@@ -136,7 +136,7 @@
             <a href="/project/10">
                 <img src="boomar_images/latest_10.jpg" alt="">
                 <h5 class="title">Orino</h5>
-                <span class="categories">Branding / logo design &amp; stationary</span>
+                <span class="categories">branding</span>
             </a>
         </li>
 
@@ -144,7 +144,7 @@
             <a href="/project/11">
                 <img src="boomar_images/latest_11.jpg" alt="">
                 <h5 class="title">Bwin</h5>
-                <span class="categories">Branding / from concept to design</span>
+                <span class="categories">branding</span>
             </a>
         </li>
 
@@ -178,6 +178,16 @@
         });  
 	
 	</script>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-43266607-1', 'boomar.gr');
+            ga('send', 'pageview');
+
+        </script>
 <!--<![endif]-->
 </body>
 </html>

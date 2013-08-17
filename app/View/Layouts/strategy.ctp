@@ -95,7 +95,7 @@
 
         <a href="/project/1" class="project-meta">
             <h5 class="title">Mind the Buzz</h5>
-            <span class="categories">Mobile App / A Boomar product</span>
+            <span class="categories">mobile / web / digital strategy</span>
         </a>
 
     </article><!-- end .one-third (Altered) -->
@@ -108,7 +108,7 @@
 
         <a href="/project/3" class="project-meta">
             <h5 class="title">Finos Film</h5>
-            <span class="categories">Website / from concept to development</span>
+            <span class="categories">web / digital strategy</span>
         </a>
 
     </article><!-- end .one-third (Altered) -->
@@ -121,7 +121,7 @@
 
         <a href="/project/2" class="project-meta">
             <h5 class="title">Ifeelkid</h5>
-            <span class="categories">Mobile App / design &amp; development</span>
+            <span class="categories">mobile / digital strategy</span>
         </a>
 
     </article><!-- end .one-third (Snow Tower) -->
@@ -154,10 +154,20 @@
 	<script>
 	
 	$(document).ready(function(){
-		$(".imgLiquidFill").imgLiquid();
-  });  
+            $(".imgLiquidFill").imgLiquid();
+        });  
 	
 	</script>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-43266607-1', 'boomar.gr');
+            ga('send', 'pageview');
+
+        </script>
 <!--<![endif]-->
 </body>
 </html>

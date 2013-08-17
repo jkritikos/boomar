@@ -50,44 +50,56 @@
 
 <section id="content" class="container clearfix">
 
-	<header class="page-header">
+    <header class="page-header">
 
-		<h1 class="page-title align-left">About Us</h1>
+        <h1 class="page-title align-left">About Us</h1>
 
-		<hr />
+        <hr />
 
-		<h2 class="page-description">We are an independent creative studio that focuses on giving birth to great ideas and turning them into memorable apps, websites and products.</h2>
-		
-	</header><!-- end .page-header -->
+        <h2 class="page-description">We are an independent creative studio that focuses on giving birth to great ideas and turning them into memorable apps, websites and products.</h2>
+
+    </header><!-- end .page-header -->
 	
-	<div class="one-third">
+    <div class="one-third">
 
-		<h4>Boomar Culture</h4>
+        <h4>Boomar Culture</h4>
 
-		<p>If we could put a word for our philosophy and culture, this would be “freedom”. We strive to have the freedom to think different and work in an inspiring and creative environment. Our studio is the home for shared talent, where passing conversations can turn into next week’s innovations.<br>
-Our team is quite diverse, consisting of experienced developers, designers, strategists and communicators, who work together or separately depending on each project’s needs. An eclectic group of individuals who have one core thing in common: what we do is what we love – and that makes all the difference.
-</p>
+        <p>If we could put a word for our philosophy and culture, this would be “freedom”. We strive to have the freedom to think different and work in an inspiring and creative environment. Our studio
+            is the home for shared talent, where passing conversations can turn into next week’s innovations.<br> Our team is quite diverse, consisting of experienced developers, designers, strategists and 
+            communicators, who work together or separately depending on each project’s needs. An eclectic group of individuals who have one core thing in common: what we do is what we love – and that makes all the difference.
+        </p>
 		
-	</div><!-- end .one-third -->
+    </div><!-- end .one-third -->
 
-	<div class="one-third">
+    <div class="one-third">
 
-		<h4>Our Approach</h4>
+        <h4>Our Philosophy</h4>
 
-		<p>We are small and that gives us the power to be super-flexible in every project we work on. There are no structures and charts; no bureaucratic madness to delay us. Also, our focus is never on credit. We do not care where a great idea comes from. All we care about is to deliver one. And we do so by being flexible enough to allocate the right person to the right project.<br>
-We think broadly and dig deep to find answers to questions that will unfold memorable stories about great products. Assuring consistent and agile execution is something we have mastered. Proper planning and testing has given Boomar the reputation of being always spot-on to deadlines. If we can’t meet the deadline, we just don’t take the job.
-</p>
-	</div><!-- end .one-third -->
+        <p>We are small and that gives us the power to be super-flexible in every project we work on. There are no structures and charts; no bureaucratic madness to delay us. We do not care where 
+            a great idea comes from. All we care is to deliver one.<br>We think broadly and dig deep to find answers to questions that will unfold memorable stories about great products. 
+            Assuring consistent and agile execution is something we have mastered. Proper planning and testing has given Boomar the reputation of being always spot-on to deadlines. If we can’t meet the deadline, we just don’t take the job.
+        </p>
+    </div><!-- end .one-third -->
 
-	<div class="one-third last">
+    <div style="padding-bottom:15px" class="one-third last">
 
-		<h4>Happy Clients</h4>
+        <h4>Happy Clients</h4>
 
-		<p>Our clients usually become our friends. Because only through collaborative thinking, can we craft our work to perfection. Our goal is to be able to see your product as our own. Feel it. Understand it. Once we do, we can add character and unfold its personality. That’s when our clients become really happy.
-Apart from Boomar’s own successful products (i.e. Mind the Buzz iOS app), our clients range from film companies to fashion houses and from children’s apps to online gaming experts. Feel free to ask any of them about our work and culture. We are quite sure you’ll be pleasantly surprised.
-</p>
-		
-	</div><!-- end .one-third.last -->
+        <p>Our clients usually become our friends. Because only through collaborative thinking, can we craft our work to perfection. Our goal is to be able to see your product as our own. Feel it. 
+            Understand it. Once we do, we can add character and unfold its personality. That’s when our clients become really happy. Apart from Boomar’s own successful products 
+            (i.e. <a href="/project/1">Mind the Buzz</a> iOS app), our clients range from film companies to fashion houses and from children’s apps to online gaming experts. Feel free 
+            to ask any of them about our work and culture. We are quite sure you’ll be pleasantly surprised.
+        </p>
+
+    </div><!-- end .one-third.last -->
+    
+    <hr/>
+    
+    <div style="margin-top:4px;" class="one-half">
+        <h4>
+            <em><a href="/team" class="button no-bg">Meet our team <span class="arrow">&raquo;</span></a></em>
+        </h4>
+    </div>
 	
 </section><!-- end #content -->
 
@@ -109,6 +121,16 @@ Apart from Boomar’s own successful products (i.e. Mind the Buzz iOS app), our 
 	<script src="js/jquery.gmap.min.js"></script>
 	<script src="js/jquery.touchSwipe.min.js"></script>
 	<script src="js/custom.js"></script>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-43266607-1', 'boomar.gr');
+            ga('send', 'pageview');
+
+        </script>
 <!--<![endif]-->
 </body>
 </html>
