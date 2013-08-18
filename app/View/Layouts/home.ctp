@@ -63,10 +63,10 @@
 </section>
 
     <div class="imgLiquidFill imgLiquid" style="width:100%; height:450px;">
-        <img src="/img/main_image_1.jpg" style="z-index: 5"alt="" id="background" />
-        <!--<div style="position:relative; width:50%; margin-left:32%; margin-right:auto; float:none; padding-top:5%">
-            <h1 style="color:white; font-size: 2.75em;">We create <span style="color:#70d9fc">mobile</span> experiences <br>that no web interface can deliver.</h1>
-        </div>-->
+        <img src="/img/main_image_5.jpg" style="z-index: 5"alt="" id="background" />
+        <div style="position:relative; width:50%; margin-left:32%; margin-right:auto; float:none; padding-top:5%">
+            <h1 style="color:white; font-size: 2.75em;">We give birth to great <span style="color:red">ideas</span> and <br>turn them into memorable apps,<br>websites and products.</h1>
+        </div>
     </div>
 <section id="bottom_content" class="container clearfix">
     <h6 class="section-title">Latest Projects</h6>

@@ -42,3 +42,5 @@ app/webroot/.DS_Store
 app/webroot/img/.DS_Store
 
 app/webroot/img/.DS_Store
+
+*.log
