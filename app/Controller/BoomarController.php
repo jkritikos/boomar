@@ -1,7 +1,6 @@
 <?php
 
-App::uses('AppController', 'Controller');
-
+App::uses('CakeEmail', 'Network/Email');
 class BoomarController extends AppController {
     
     var $components = array('Cookie', 'RequestHandler');
@@ -291,6 +290,21 @@ class BoomarController extends AppController {
     }
     
     function userContact(){
+        $name = $_REQUEST['name'];
+        $email = $_REQUEST['email'];
+        $subject = $_REQUEST['subject'];
+        $msg = $_REQUEST['message'];
+        
+        $Email = new CakeEmail('smtp');
+        
+        $Email->emailFormat('html')
+                ->subject('New message from Boomar.gr')
+                ->template('contact')
+                ->to('info@boomar.gr')
+                ->cc('j.kritikos@boomar.gr')
+                ->viewVars(array('name' => $name, 'email' => $email, 'subject' => $subject, 'msg' => $msg))    
+                ->send();
+         
         $data = "Success! Thank you for contacting us.";
         echo $data; 
         $this->layout = 'blank';
