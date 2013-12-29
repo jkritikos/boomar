@@ -58,6 +58,8 @@
         Router::connect('/project/12', array('controller' => 'boomar', 'action' => 'project', 12));
         Router::connect('/project/13', array('controller' => 'boomar', 'action' => 'project', 13));
         Router::connect('/project/14', array('controller' => 'boomar', 'action' => 'project', 14));
+        Router::connect('/project/15', array('controller' => 'boomar', 'action' => 'project', 15));
+        Router::connect('/project/16', array('controller' => 'boomar', 'action' => 'project', 16));
         
         //Contact
         Router::connect('/contact', array('controller' => 'boomar', 'action' => 'contact'));

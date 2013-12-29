@@ -94,6 +94,19 @@
 
         </article><!-- end .one-half (Altered) -->
 
+        <article class="one-half" data-categories="mobile">
+
+            <a href="/project/<?php echo PROJECT_DOGSQUARE?>" title="Dogsquare">
+                <img src="img/placeholders/boomar/overview/dogsquare_460x292.jpg" alt="">
+            </a>
+
+            <a href="/project/<?php echo PROJECT_DOGSQUARE?>" class="project-meta">
+                <h5 class="title">Dogsquare</h5>
+                <span class="categories">mobile</span>
+            </a>
+
+        </article><!-- end .one-half (Snow Tower) -->
+        
         <article class="one-half" data-categories="mobile strategy">
 
             <a href="/project/<?php echo PROJECT_IFEELKID?>" title="Ifeelkid">
@@ -119,7 +132,20 @@
             </a>
 
         </article><!-- end .one-half (Not the end) -->
+        
+        <article class="one-half" data-categories="branding">
 
+            <a href="/project/<?php echo PROJECT_AXDW14?>" title="AXDW XIV">
+                <img src="img/placeholders/boomar/overview/axdw14_460x292.jpg" alt="">
+            </a>
+
+            <a href="/project/<?php echo PROJECT_AXDW14?>" class="project-meta">
+                <h5 class="title">AXDW XIV</h5>
+                <span class="categories">branding</span>
+            </a>
+
+        </article><!-- end .one-half (Shift) -->
+        
         <article class="one-half" data-categories="branding">
 
             <a href="/project/<?php echo PROJECT_AXDW13?>" title="AXDW XIII">

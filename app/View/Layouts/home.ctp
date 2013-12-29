@@ -63,29 +63,37 @@
 </section>
 
     <div class="imgLiquidFill imgLiquid" style="width:100%; height:450px;">
-        <img src="/img/main_image_5.jpg" style="z-index: 5"alt="" id="background" />
+        <img src="/img/main_image_5d.jpg" style="z-index: 5"alt="" id="background" />
         <div style="position:relative; width:50%; margin-left:32%; margin-right:auto; float:none; padding-top:5%">
-            <h1 style="color:white; font-size: 2.75em;">We give birth to great <span style="color:red">ideas</span> and <br>turn them into memorable apps,<br>websites and products.</h1>
+            <h1 style="color:white; font-size: 2.75em;">We give birth to great <span style="color:#fccb06">ideas</span> and <br>turn them into memorable apps,<br>websites and products.</h1>
         </div>
     </div>
 <section id="bottom_content" class="container clearfix">
     <h6 class="section-title">Latest Projects</h6>
 
     <ul class="projects-carousel clearfix">
-
+        
         <li>
-            <a href="/project/1">
-                <img src="boomar_images/latest_1.jpg" alt="">
-                <h5 class="title">Mind the Buzz</h5>
-                <span class="categories">mobile / web / digital strategy</span>
+            <a href="/project/16">
+                <img src="boomar_images/latest_13.jpg" alt="">
+                <h5 class="title">Dogsquare</h5>
+                <span class="categories">mobile</span>
             </a>
         </li>
-
+        
         <li>
             <a href="/project/2">
                 <img src="boomar_images/latest_2.jpg" alt="">
                 <h5 class="title">Ifeelkid</h5>
                 <span class="categories">mobile / digital strategy</span>
+            </a>
+        </li>
+        
+        <li>
+            <a href="/project/1">
+                <img src="boomar_images/latest_1.jpg" alt="">
+                <h5 class="title">Mind the Buzz</h5>
+                <span class="categories">mobile / web / digital strategy</span>
             </a>
         </li>
 
@@ -97,6 +105,30 @@
             </a>
         </li>
 
+        <li>
+            <a href="/project/15">
+                <img src="boomar_images/latest_12.jpg" alt="">
+                <h5 class="title">AXDW XIV</h5>
+                <span class="categories">branding</span>
+            </a>
+        </li>
+        
+        <li>
+            <a href="/project/10">
+                <img src="boomar_images/latest_10.jpg" alt="">
+                <h5 class="title">Orino</h5>
+                <span class="categories">branding</span>
+            </a>
+        </li>
+        
+        <li>
+            <a href="/project/7">
+                <img src="boomar_images/latest_7.jpg" alt="">
+                <h5 class="title">Bwin</h5>
+                <span class="categories">web</span>
+            </a>
+        </li>
+        
         <li>
             <a href="/project/4">
                 <img src="boomar_images/latest_4.jpg" alt="">
@@ -114,22 +146,6 @@
         </li>
 
         <li>
-            <a href="/project/6">
-                <img src="boomar_images/latest_6.jpg" alt="">
-                <h5 class="title">Ticket On the Go</h5>
-                <span class="categories">mobile</span>
-            </a>
-        </li>
-
-        <li>
-            <a href="/project/7">
-                <img src="boomar_images/latest_7.jpg" alt="">
-                <h5 class="title">Bwin</h5>
-                <span class="categories">web</span>
-            </a>
-        </li>
-
-        <li>
             <a href="/project/8">
                 <img src="boomar_images/latest_8.jpg" alt="">
                 <h5 class="title">AXDW Week XII</h5>
@@ -142,14 +158,6 @@
                 <img src="boomar_images/latest_9.jpg" alt="">
                 <h5 class="title">Sivaco</h5>
                 <span class="categories">web / branding</span>
-            </a>
-        </li>
-
-        <li>
-            <a href="/project/10">
-                <img src="boomar_images/latest_10.jpg" alt="">
-                <h5 class="title">Orino</h5>
-                <span class="categories">branding</span>
             </a>
         </li>
 

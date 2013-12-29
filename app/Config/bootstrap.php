@@ -122,3 +122,5 @@ define("PROJECT_BWIN", 11);
 define("PROJECT_KTEL", 12);
 define("PROJECT_ZOFIPSI", 13);
 define("PROJECT_AXDW11", 14);
+define("PROJECT_AXDW14", 15);
+define("PROJECT_DOGSQUARE", 16);

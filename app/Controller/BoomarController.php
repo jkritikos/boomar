@@ -107,7 +107,7 @@ class BoomarController extends AppController {
         } else if($id == PROJECT_FINOSFILM){
             $title = "Finos Film";
             $overview = "Finos Film is a film production company that dominated the Greek film industry from 1943 to 1977. More than 180 movies that have been cherished by three generations continue to entertain the public with their authentic scripts, outstanding production and unforgettable cast.";
-            $thingsWeDid = "A brand new website, that would form a library of great cultural importance was the primary goal. Apart from the design and development, we carried out an extensive research and restored more than 5,000 rare images. The brand’s social media presence followed, with the official Finos Film channel in YouTube, along with a presence in Facebook and Twitter, making it possible – for the first time after 30 years – to open a dialogue with the “living myth” of Greek cinematography.";
+            $thingsWeDid = "A brand new website, that would form a library of great cultural importance was the primary goal. Apart from the design and development, we carried out an extensive research and restored more than 5,000 rare images. The brand’s social media presence followed in Facebook and Twitter, making it possible – for the first time after 30 years – to open a dialogue with the “living myth” of Greek cinematography.";
             $url = "http://www.finosfilm.com";
             $skills = "web / digital strategy";
             $previous = true;
@@ -118,6 +118,7 @@ class BoomarController extends AppController {
             $images[] = "/img/placeholders/boomar/ff/ff_680x600_3.jpg";
             $images[] = "/img/placeholders/boomar/ff/ff_680x600_4.jpg";
             $images[] = "/img/placeholders/boomar/ff/ff_680x600_5.jpg";
+            $images[] = "/img/placeholders/boomar/ff/ff_680x600_6.jpg";
         } else if($id == PROJECT_AXDW13){
             $title = "AXDW XIII";
             $overview = "Athens Xclusive Designers Week is the most prestigious fashion week in Greece, with hundreds of talented Greek and international designers participating each season. The 13th AXDW had the privilege to be renamed Mercedes-Benz AXDW, and the campaign’s objective was to endorse the artistry of the catwalk.";
@@ -266,7 +267,7 @@ class BoomarController extends AppController {
             $url = "http://www.axdw.gr";
             $skills = "branding";
             $previous = true;
-            $next = false;
+            $next = true;
             
             $images[] = "/img/placeholders/boomar/axdw11/axdw11_680x600_1.jpg";
             $images[] = "/img/placeholders/boomar/axdw11/axdw11_680x600_2.jpg";
@@ -274,6 +275,34 @@ class BoomarController extends AppController {
             $images[] = "/img/placeholders/boomar/axdw11/axdw11_680x600_4.jpg";
             $images[] = "/img/placeholders/boomar/axdw11/axdw11_680x600_5.jpg";
             $images[] = "/img/placeholders/boomar/axdw11/axdw11_680x600_6.jpg";
+        } else if($id == PROJECT_AXDW14){
+            $title = "AXDW XIV";
+            $overview = "Athens Xclusive Designers Week is the most prestigious fashion week in Greece. The 14th AXDW's roster included talented Greek and international designers, as well as fabulous events that gave the opportunity to lucky fashionistas to meet and greet their favourite designers.";
+            $thingsWeDid = "The campaign focused on the backstage madness and allure that goes with every fashion week. Abstract backstage moments were put on the spotlight of all communication material, including the Official Catalogue, invitations, print ads and branding elements. A behind-the-scenes look at the most reputable event in Greece, reminded guests about the power of exclusivity and glamour.";
+            $url = "http://www.axdw.gr";
+            $skills = "branding";
+            $previous = true;
+            $next = true;
+            
+            $images[] = "/img/placeholders/boomar/axdw14/axdw14_680x600_1.jpg";
+            $images[] = "/img/placeholders/boomar/axdw14/axdw14_680x600_2.jpg";
+            $images[] = "/img/placeholders/boomar/axdw14/axdw14_680x600_3.jpg";
+            $images[] = "/img/placeholders/boomar/axdw14/axdw14_680x600_4.jpg";
+            $images[] = "/img/placeholders/boomar/axdw14/axdw14_680x600_5.jpg";
+        } else if($id == PROJECT_DOGSQUARE){
+            $title = "Dogsquare";
+            $overview = "A mobile app dedicated to man's best friend. Our client's initiative to create an app for dogs, gave us the opportunity to develop witty functionalities to improve the lives of our best friends and their tech-savvy owners.";
+            $thingsWeDid = "Our team undertook the development of Dogsquare app for iOS, including dog-walk monitoring, badge-reward system, user messaging, pet-related points of interest with the ability to check-in and many many more. It was definitely a privilege to work for a project dedicated to our little friends!";
+            $url = "http://www.dogsquareapp.com";
+            $skills = "mobile";
+            $previous = true;
+            $next = false;
+            
+            $images[] = "/img/placeholders/boomar/dogsquare/dogsquare_680x600_1.jpg";
+            $images[] = "/img/placeholders/boomar/dogsquare/dogsquare_680x600_2.jpg";
+            $images[] = "/img/placeholders/boomar/dogsquare/dogsquare_680x600_3.jpg";
+            $images[] = "/img/placeholders/boomar/dogsquare/dogsquare_680x600_4.jpg";
+            $images[] = "/img/placeholders/boomar/dogsquare/dogsquare_680x600_5.jpg";
         } 
         
         //Return to the view
