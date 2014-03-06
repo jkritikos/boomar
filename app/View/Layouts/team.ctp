@@ -124,18 +124,18 @@
 
 		<div class="content">
 
-			<h4 class="name">Vagelis Hatzis</h4>
+			<h4 class="name">Vagner</h4>
 
 			<span class="job-title">Web Developer</span>
 
-			<p>Vagelis – aka Vagner – is a software engineer with a marketing twist. He has the ability to recognize a need and provide powerful tools to meet it. With a wealth of experience and a portfolio to match, he has worked for dozens of international projects, most of them for Vodafone. Vagner’s virtues are consistency and patience. When he’s not working, you can find him running in the streets of Athens, preparing for the next Marathon.</p>
+			<p>Vagner is a software engineer with a marketing twist. He has the ability to recognize a need and provide powerful tools to meet it. With a wealth of experience and a portfolio to match, he has worked on dozens of international projects, most of them for large Telcos. Vagner’s virtues are consistency and patience. When he’s not working, you can find him running in the streets of Athens, preparing for the next Marathon.</p>
 			
 		</div><!-- end .content -->
 	
 		<ul class="social-links">
-			<li class="twitter"><a href="http://www.twitter.com/vag_h">Twitter</a></li>
-			<li class="facebook"><a href="http://www.facebook.com/vagelis_hatzis">Facebook</a></li>
-			<li class="email"><a href="mailto:v.hatzis@boomar.gr">Email</a></li>
+			<!--<li class="twitter"><a href="http://www.twitter.com/vag_h">Twitter</a></li>
+			<li class="facebook"><a href="http://www.facebook.com/vagelis_hatzis">Facebook</a></li>-->
+			<li class="email"><a href="mailto:vagelis@jigsaw.gr">Email</a></li>
 		</ul><!-- end .social-links -->
 		
 	</div><!-- end .team-member.one-fourth.last -->

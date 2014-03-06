@@ -30,7 +30,7 @@
 
             <ul class="social-links">
                 <li class="twitter"><a href="http://www.twitter.com/boomar">Twitter</a></li>
-                <li class="facebook"><a href="http://www.facebook.com/boomar">Facebook</a></li>
+                <li class="facebook"><a href="https://www.facebook.com/BoomarStudio">Facebook</a></li>
             </ul><!-- end .social-links -->
 
         </div><!-- end .one-fourth.last -->
