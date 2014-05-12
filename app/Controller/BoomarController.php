@@ -221,7 +221,7 @@ class BoomarController extends AppController {
             $title = "Bwin";
             $overview = "Bwin is the world’s number one in online gaming with more than 20 million users. The brand’s local marketing efforts ranged from thrilling contests to powerful corporate campaigns, some of which we were proud to be part of.";
             $thingsWeDid = "At the “20,000,000” campaign, we designed a key visual that managed to depict the grandness of bwin’s audience. For the “Tour2010” contest, the approach was plain as day, while funky cutouts entertained the public during the contest’s closing event. But the artistry of corporate branding is evident at the “F*ck Luck” campaign. A simple image accompanied by a powerful message and a wicked tagline, was all we wished to prove that when we are inspired, we can do wonders.";
-            $url = "http://www.bwin.com";
+            $url = null;
             $skills = "branding";
             $previous = true;
             $next = true;

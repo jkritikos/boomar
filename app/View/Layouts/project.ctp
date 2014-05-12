@@ -130,10 +130,17 @@
 			<h4>Things we did</h4>
 
 			<p><?php echo $things; ?></p>
-
-			<p>
-				<a href="<?php echo $url; ?>" class="button">Visit website</a>
-			</p>
+                        
+                        <?php
+                        if($url != null){
+                            ?>
+                        
+                            <p>
+                                    <a href="<?php echo $url; ?>" class="button">Visit website</a>
+                            </p>
+                            <?php
+                        }
+                        ?>
 
 		</div><!-- end #sidebar -->
 		
