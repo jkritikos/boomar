@@ -124,3 +124,7 @@ define("PROJECT_ZOFIPSI", 13);
 define("PROJECT_AXDW11", 14);
 define("PROJECT_AXDW14", 15);
 define("PROJECT_DOGSQUARE", 16);
+define("PROJECT_AXDW15", 17);
+define("PROJECT_TREKRECORD", 18);
+define("PROJECT_APM", 19);
+define("PROJECT_NOVARTIS", 20);

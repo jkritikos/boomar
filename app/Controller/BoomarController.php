@@ -72,8 +72,8 @@ class BoomarController extends AppController {
 
         if($id == PROJECT_MINDTHEBUZZ){
             $title = "Mind the Buzz";
-            $overview = "One of the success stories in the Greek AppStore, Mind the Buzz is a product of Boomar and was born out of our love for knowledge games. The app targets quiz lovers, who want to play both offline and online, alone or with friends, with a plethora of more than 5,000 questions, making the game endless!";
-            $thingsWeDid = "Following extensive research and endless hours of design, development and content editing, we launched an app that was immediately adored by the public. From its launch day, the game was number one app in the Greek AppStore and remained there for nearly 5 months. With engaging gameplay, simple navigation and fascinating features, Mind the Buzz turned out to be a success story with a 5-star average rating.";
+            $overview = "One of the success stories in the Greek AppStore, Mind the Buzz is a product of Boomar and was born out of our love for knowledge games. The app targets quiz lovers, who want to play both offline and online, alone or with friends, with a plethora of more than 12,000 questions, available in English and Greek!";
+            $thingsWeDid = "Following extensive research and endless hours of design, development and content editing, we launched an app that was immediately adored by the public. Tailored media relations for the app's global launch, added a pinch of magic to the game's success. With engaging gameplay, simple navigation and fascinating features, Mind the Buzz turned out to be one of the most educational trivia games with a 5-star average rating.";
             $url = "http://www.mindthebuzz.com";
             $skills = "mobile / web / digital strategy";
             $previous = false;
@@ -85,7 +85,7 @@ class BoomarController extends AppController {
             $images[] = "/img/placeholders/boomar/mtb/mtb_680x600_4.jpg";
             $images[] = "/img/placeholders/boomar/mtb/mtb_680x600_5.jpg";
             $images[] = "/img/placeholders/boomar/mtb/mtb_680x600_6.jpg";
-            
+            $images[] = "/img/placeholders/boomar/mtb/mtb_680x600_7.jpg";
             
         } else if($id == PROJECT_IFEELKID){
             $title = "Ifeelkid";
@@ -296,14 +296,69 @@ class BoomarController extends AppController {
             $url = "http://www.dogsquareapp.com";
             $skills = "mobile";
             $previous = true;
-            $next = false;
+            $next = true;
             
             $images[] = "/img/placeholders/boomar/dogsquare/dogsquare_680x600_1.jpg";
             $images[] = "/img/placeholders/boomar/dogsquare/dogsquare_680x600_2.jpg";
             $images[] = "/img/placeholders/boomar/dogsquare/dogsquare_680x600_3.jpg";
             $images[] = "/img/placeholders/boomar/dogsquare/dogsquare_680x600_4.jpg";
             $images[] = "/img/placeholders/boomar/dogsquare/dogsquare_680x600_5.jpg";
-        } 
+        } else if($id == PROJECT_AXDW15){
+            $title = "AXDW XV";
+            $overview = "Athens Xclusive Designers Week is the most prestigious fashion week in Greece. The 15th AXDW was more glamorous than ever, with fabulous Greek and international designers who presented their fall/winter collections for 2014. Dazzling catwalks, fascinating events and hip fashionistas were just a few of this season's highlights.";
+            $thingsWeDid = "The 15th season's concept focused on the media hype of the event. Eager photographers and dramatic flashlights build up the buzz behind every fashion week. Minimal design was adopted in all communication material, including Official Catalogue, invitations, print ads and branding elements. Elegant and tasteful features highlighted the exclusivity of the 15th Athens Xclusive Designers Week.";
+            $url = "http://www.axdw.gr";
+            $skills = "branding";
+            $previous = true;
+            $next = true;
+            
+            $images[] = "/img/placeholders/boomar/axdw15/axdw15_680x600_1.jpg";
+            $images[] = "/img/placeholders/boomar/axdw15/axdw15_680x600_2.jpg";
+            $images[] = "/img/placeholders/boomar/axdw15/axdw15_680x600_3.jpg";
+            $images[] = "/img/placeholders/boomar/axdw15/axdw15_680x600_4.jpg";
+            $images[] = "/img/placeholders/boomar/axdw15/axdw15_680x600_5.jpg";
+            
+        } else if($id == PROJECT_TREKRECORD){
+            $title = "Trekrecord";
+            $overview = "A mobile app for passionate travellers! Our client wished to launch an iPhone application that would share unique traveling experiences in a socially challenging way. How many countries have you visited? Find your trekrecord and let the journey begin!";
+            $thingsWeDid = "A well-crafted social app targeted for a niche audience is never a simple task. Apart from polished design and simple user navigation, our team developed a full-fledged social network with activity feeds, user and country profiles, notifications and search engine. We also developed the back-end, which serves both the mobile app and admins for managing the entire system.";
+            $url = "http://www.trekrecord.com/";
+            $skills = "mobile";
+            $previous = true;
+            $next = true;
+            
+            $images[] = "/img/placeholders/boomar/trekrecord/trekrecord_680x600_1.jpg";
+            $images[] = "/img/placeholders/boomar/trekrecord/trekrecord_680x600_2.jpg";
+            $images[] = "/img/placeholders/boomar/trekrecord/trekrecord_680x600_3.jpg";
+            $images[] = "/img/placeholders/boomar/trekrecord/trekrecord_680x600_4.jpg";
+            $images[] = "/img/placeholders/boomar/trekrecord/trekrecord_680x600_5.jpg";
+            
+        } else if($id == PROJECT_APM){
+            $title = "Apm";
+            $overview = "Apm is a full service landscape firm with over 15 years experience in designing and building green projects. Our client needed a fresh logo that would reflect the firm's values and services in a modern, yet straightforward manner.";
+            $thingsWeDid = "The main objective for our design process was to marry architecture with green aesthetics in a way that it would easily convey the message to the firm's audience. Using flat, minimal elements allowed us to successfully incorporate our key visual to a brand new logo. Wooden textures added a pinch of realism and charm to the end result.";
+            $url = "";
+            $skills = "branding";
+            $previous = true;
+            $next = true;
+            
+            $images[] = "/img/placeholders/boomar/apm/apm_680x600_1.jpg";
+            $images[] = "/img/placeholders/boomar/apm/apm_680x600_2.jpg";
+            $images[] = "/img/placeholders/boomar/apm/apm_680x600_3.jpg";
+            
+        } else if($id == PROJECT_NOVARTIS){
+            $title = "X-Challenge";
+            $overview = "Leading pharmaceutical company Novartis decided to create a truly innovative platform exclusively for the sales representatives of Exforge medicine. Their brief was to create an iPad game, similar to Mind the Buzz, tailored to their needs.";
+            $thingsWeDid = "Having already mastered the trivia game mobile platform, we re-structured the game to create a challenging version, with monthly tournaments and endless brain battles. The result was overwhelming, as the sales reps' loyalty and interest was significantly increased.";
+            $url = "";
+            $skills = "mobile";
+            $previous = true;
+            $next = false;
+            
+            $images[] = "/img/placeholders/boomar/novartis/novartis_680x600_1.jpg";
+            $images[] = "/img/placeholders/boomar/novartis/novartis_680x600_2.jpg";
+            $images[] = "/img/placeholders/boomar/novartis/novartis_680x600_3.jpg";
+        }
         
         //Return to the view
         $this->set('title', $title);

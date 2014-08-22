@@ -74,10 +74,26 @@
     <ul class="projects-carousel clearfix">
         
         <li>
-            <a href="/project/16">
-                <img src="boomar_images/latest_13.jpg" alt="">
-                <h5 class="title">Dogsquare</h5>
+            <a href="/project/1">
+                <img src="boomar_images/latest_1.jpg" alt="">
+                <h5 class="title">Mind the Buzz</h5>
+                <span class="categories">mobile / web / digital strategy</span>
+            </a>
+        </li>
+        
+        <li>
+            <a href="/project/18">
+                <img src="boomar_images/latest_trekrecord.jpg" alt="">
+                <h5 class="title">Trekrecord</h5>
                 <span class="categories">mobile</span>
+            </a>
+        </li>
+        
+        <li>
+            <a href="/project/3">
+                <img src="boomar_images/latest_3.jpg" alt="">
+                <h5 class="title">Finos Film</h5>
+                <span class="categories">web / digital strategy</span>
             </a>
         </li>
         
@@ -90,21 +106,45 @@
         </li>
         
         <li>
-            <a href="/project/1">
-                <img src="boomar_images/latest_1.jpg" alt="">
-                <h5 class="title">Mind the Buzz</h5>
-                <span class="categories">mobile / web / digital strategy</span>
+            <a href="/project/19">
+                <img src="boomar_images/latest_apm.jpg" alt="">
+                <h5 class="title">Apm</h5>
+                <span class="categories">branding</span>
             </a>
         </li>
-
+        
         <li>
-            <a href="/project/3">
-                <img src="boomar_images/latest_3.jpg" alt="">
-                <h5 class="title">Finos Film</h5>
-                <span class="categories">web / digital strategy</span>
+            <a href="/project/20">
+                <img src="boomar_images/latest_novartis.jpg" alt="">
+                <h5 class="title">X-Challenge</h5>
+                <span class="categories">mobile</span>
             </a>
         </li>
-
+        
+        <li>
+            <a href="/project/16">
+                <img src="boomar_images/latest_13.jpg" alt="">
+                <h5 class="title">Dogsquare</h5>
+                <span class="categories">mobile</span>
+            </a>
+        </li>
+        
+        <li>
+            <a href="/project/17">
+                <img src="boomar_images/latest_axdw15.jpg" alt="">
+                <h5 class="title">AXDW XV</h5>
+                <span class="categories">branding</span>
+            </a>
+        </li>
+        
+        <li>
+            <a href="/project/7">
+                <img src="boomar_images/latest_7.jpg" alt="">
+                <h5 class="title">Bwin</h5>
+                <span class="categories">web</span>
+            </a>
+        </li>
+        
         <li>
             <a href="/project/15">
                 <img src="boomar_images/latest_12.jpg" alt="">
@@ -118,14 +158,6 @@
                 <img src="boomar_images/latest_10.jpg" alt="">
                 <h5 class="title">Orino</h5>
                 <span class="categories">branding</span>
-            </a>
-        </li>
-        
-        <li>
-            <a href="/project/7">
-                <img src="boomar_images/latest_7.jpg" alt="">
-                <h5 class="title">Bwin</h5>
-                <span class="categories">web</span>
             </a>
         </li>
         

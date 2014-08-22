@@ -80,7 +80,7 @@
     </header><!-- end .page-header -->
 
     <section id="portfolio-items" class="clearfix">
-
+        
         <article class="one-half" data-categories="mobile web strategy">
 
                 <a href="/project/<?php echo PROJECT_MINDTHEBUZZ?>" title="Mind the Buzz">
@@ -93,6 +93,86 @@
                 </a>
 
         </article><!-- end .one-half (Altered) -->
+        
+        <article class="one-half" data-categories="web strategy">
+
+            <a href="/project/<?php echo PROJECT_FINOSFILM?>" title="Finos Film">
+                <img src="img/placeholders/boomar/overview/ff_460x292.jpg" alt="">
+            </a>
+
+            <a href="/project/<?php echo PROJECT_FINOSFILM?>" class="project-meta">
+                <h5 class="title">Finos Film</h5>
+                <span class="categories">web / digital strategy</span>
+            </a>
+
+        </article><!-- end .one-half (Not the end) -->
+        
+        <article class="one-half" data-categories="mobile">
+
+            <a href="/project/<?php echo PROJECT_TREKRECORD?>" title="Trekrecord">
+                <img src="img/placeholders/boomar/overview/trekrecord_460x292.jpg" alt="">
+            </a>
+
+            <a href="/project/<?php echo PROJECT_TREKRECORD?>" class="project-meta">
+                <h5 class="title">Trekrecord</h5>
+                <span class="categories">mobile</span>
+            </a>
+
+        </article><!-- end .one-half (Shift) -->
+        
+        <article class="one-half" data-categories="mobile strategy">
+
+            <a href="/project/<?php echo PROJECT_IFEELKID?>" title="Ifeelkid">
+                <img src="img/placeholders/boomar/overview/ifeelkid_460x292.jpg" alt="">
+            </a>
+
+            <a href="/project/<?php echo PROJECT_IFEELKID?>" class="project-meta">
+                <h5 class="title">Ifeelkid</h5>
+                <span class="categories">mobile / digital strategy</span>
+            </a>
+
+        </article><!-- end .one-half (Snow Tower) -->
+        
+        <article class="one-half" data-categories="mobile">
+
+            <a href="/project/<?php echo PROJECT_NOVARTIS?>" title="X-Challenge">
+                <img src="img/placeholders/boomar/overview/novartis_460x292.jpg" alt="">
+            </a>
+
+            <a href="/project/<?php echo PROJECT_NOVARTIS?>" class="project-meta">
+                <h5 class="title">X-Challenge</h5>
+                <span class="categories">mobile</span>
+            </a>
+
+        </article><!-- end .one-half (Shift) -->
+        
+        <article class="one-half" data-categories="branding">
+
+            <a href="/project/<?php echo PROJECT_APM?>" title="Apm">
+                <img src="img/placeholders/boomar/overview/apm_460x292.jpg" alt="">
+            </a>
+
+            <a href="/project/<?php echo PROJECT_APM?>" class="project-meta">
+                <h5 class="title">Apm</h5>
+                <span class="categories">branding</span>
+            </a>
+
+        </article><!-- end .one-half (Shift) -->
+        
+        <article class="one-half" data-categories="branding">
+
+            <a href="/project/<?php echo PROJECT_AXDW15?>" title="AXDW XV">
+                <img src="img/placeholders/boomar/overview/axdw15_460x292.jpg" alt="">
+            </a>
+
+            <a href="/project/<?php echo PROJECT_AXDW15?>" class="project-meta">
+                <h5 class="title">AXDW XV</h5>
+                <span class="categories">branding</span>
+            </a>
+
+        </article><!-- end .one-half (Shift) -->
+        
+        
 
         <article class="one-half" data-categories="mobile">
 
@@ -107,31 +187,9 @@
 
         </article><!-- end .one-half (Snow Tower) -->
         
-        <article class="one-half" data-categories="mobile strategy">
+        
 
-            <a href="/project/<?php echo PROJECT_IFEELKID?>" title="Ifeelkid">
-                <img src="img/placeholders/boomar/overview/ifeelkid_460x292.jpg" alt="">
-            </a>
-
-            <a href="/project/<?php echo PROJECT_IFEELKID?>" class="project-meta">
-                <h5 class="title">Ifeelkid</h5>
-                <span class="categories">mobile / digital strategy</span>
-            </a>
-
-        </article><!-- end .one-half (Snow Tower) -->
-
-        <article class="one-half" data-categories="web strategy">
-
-            <a href="/project/<?php echo PROJECT_FINOSFILM?>" title="Finos Film">
-                <img src="img/placeholders/boomar/overview/ff_460x292.jpg" alt="">
-            </a>
-
-            <a href="/project/<?php echo PROJECT_FINOSFILM?>" class="project-meta">
-                <h5 class="title">Finos Film</h5>
-                <span class="categories">web / digital strategy</span>
-            </a>
-
-        </article><!-- end .one-half (Not the end) -->
+        
         
         <article class="one-half" data-categories="branding">
 

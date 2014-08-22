@@ -90,7 +90,7 @@
 			Athens, Greece</p>
 
 				<p>Phone: (+30) 210 683 6371<br/>
-				Fax: +08 (123) 456-7890<br/>
+				
 				Email: info@boomar.gr<br/>
 				Web: boomar.gr</p>
 			

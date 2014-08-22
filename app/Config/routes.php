@@ -60,6 +60,10 @@
         Router::connect('/project/14', array('controller' => 'boomar', 'action' => 'project', 14));
         Router::connect('/project/15', array('controller' => 'boomar', 'action' => 'project', 15));
         Router::connect('/project/16', array('controller' => 'boomar', 'action' => 'project', 16));
+        Router::connect('/project/17', array('controller' => 'boomar', 'action' => 'project', 17));
+        Router::connect('/project/18', array('controller' => 'boomar', 'action' => 'project', 18));
+        Router::connect('/project/19', array('controller' => 'boomar', 'action' => 'project', 19));
+        Router::connect('/project/20', array('controller' => 'boomar', 'action' => 'project', 20));
         
         //Contact
         Router::connect('/contact', array('controller' => 'boomar', 'action' => 'contact'));
