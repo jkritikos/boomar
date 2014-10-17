@@ -133,7 +133,7 @@
 
         </article><!-- end .one-half (Snow Tower) -->
         
-        <article class="one-half" data-categories="mobile">
+<!--        <article class="one-half" data-categories="mobile">
 
             <a href="/project/<?php echo PROJECT_NOVARTIS?>" title="X-Challenge">
                 <img src="img/placeholders/boomar/overview/novartis_460x292.jpg" alt="">
@@ -144,7 +144,7 @@
                 <span class="categories">mobile</span>
             </a>
 
-        </article><!-- end .one-half (Shift) -->
+        </article> end .one-half (Shift) -->
         
         <article class="one-half" data-categories="branding">
 

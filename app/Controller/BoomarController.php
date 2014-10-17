@@ -346,19 +346,21 @@ class BoomarController extends AppController {
             $images[] = "/img/placeholders/boomar/apm/apm_680x600_2.jpg";
             $images[] = "/img/placeholders/boomar/apm/apm_680x600_3.jpg";
             
-        } else if($id == PROJECT_NOVARTIS){
-            $title = "X-Challenge";
-            $overview = "Leading pharmaceutical company Novartis decided to create a truly innovative platform exclusively for the sales representatives of Exforge medicine. Their brief was to create an iPad game, similar to Mind the Buzz, tailored to their needs.";
-            $thingsWeDid = "Having already mastered the trivia game mobile platform, we re-structured the game to create a challenging version, with monthly tournaments and endless brain battles. The result was overwhelming, as the sales reps' loyalty and interest was significantly increased.";
-            $url = "";
-            $skills = "mobile";
-            $previous = true;
-            $next = false;
-            
-            $images[] = "/img/placeholders/boomar/novartis/novartis_680x600_1.jpg";
-            $images[] = "/img/placeholders/boomar/novartis/novartis_680x600_2.jpg";
-            $images[] = "/img/placeholders/boomar/novartis/novartis_680x600_3.jpg";
-        }
+        } 
+        
+//        else if($id == PROJECT_NOVARTIS){
+//            $title = "X-Challenge";
+//            $overview = "Leading pharmaceutical company Novartis decided to create a truly innovative platform exclusively for the sales representatives of Exforge medicine. Their brief was to create an iPad game, similar to Mind the Buzz, tailored to their needs.";
+//            $thingsWeDid = "Having already mastered the trivia game mobile platform, we re-structured the game to create a challenging version, with monthly tournaments and endless brain battles. The result was overwhelming, as the sales reps' loyalty and interest was significantly increased.";
+//            $url = "";
+//            $skills = "mobile";
+//            $previous = true;
+//            $next = false;
+//            
+//            $images[] = "/img/placeholders/boomar/novartis/novartis_680x600_1.jpg";
+//            $images[] = "/img/placeholders/boomar/novartis/novartis_680x600_2.jpg";
+//            $images[] = "/img/placeholders/boomar/novartis/novartis_680x600_3.jpg";
+//        }
         
         //Return to the view
         $this->set('title', $title);

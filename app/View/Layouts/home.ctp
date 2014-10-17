@@ -113,13 +113,13 @@
             </a>
         </li>
         
-        <li>
+<!--        <li>
             <a href="/project/20">
                 <img src="boomar_images/latest_novartis.jpg" alt="">
                 <h5 class="title">X-Challenge</h5>
                 <span class="categories">mobile</span>
             </a>
-        </li>
+        </li>-->
         
         <li>
             <a href="/project/16">
